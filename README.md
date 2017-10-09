@@ -1,5 +1,6 @@
 # IMS-17/18
-Doprava zboží nebo osob
+
+## H2 Doprava zboží nebo osob
 
 Zvolte si problematiku v oblasti dopravy zboží (logistické firmy, distribuce, sklady) nebo osob (vlaková, automobilová, letecká, vodní, hromadná/individuální, elektromobily). Problematiku modelujte jako SHO. Experimenty zjisťujte kritická místa a rizika ve své oblasti, možnosti rozvoje, ekonomické aspekty apod. 
 
