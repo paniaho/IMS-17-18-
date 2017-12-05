@@ -12,7 +12,8 @@ distances = {
     'TechMuseum': 400.0,
     'CEITEC': 229.36,
     'AdMaS': 607.87,
-    'FacultyOfChemistry': 125.02
+    'FacultyOfChemistry': 125.02,
+    'JIC': 600
 }
 
 personMinSpeed = 1.12 # m/s
