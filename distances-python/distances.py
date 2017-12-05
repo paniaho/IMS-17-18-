@@ -7,9 +7,8 @@ distances = {
     'F': 142.64,
     'G': 163.48,
     'H': 110,
-    'I': 78, # two redhats on Cervinkova (same building, basically)
-    'J': 600, # IBM
-
+    'RH_Cerv': 78,
+    'IBM': 600,
     'CEITEC': 229.36,
     'AdMaS': 607.87,
     'FacultyOfChemistry': 125.02
