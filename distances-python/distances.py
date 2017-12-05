@@ -7,8 +7,9 @@ distances = {
     'F': 142.64,
     'G': 163.48,
     'H': 110,
-    'RH_Cerv': 78,
-    'IBM': 600,
+    'RH_Cerv': 180,
+    'IBM': 650,
+    'TechMuseum': 400,
     'CEITEC': 229.36,
     'AdMaS': 607.87,
     'FacultyOfChemistry': 125.02
