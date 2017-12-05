@@ -2,3 +2,5 @@ tech-*
 distances-python/.idea
 google*
 pixely*
+*.zip
+*.swp
