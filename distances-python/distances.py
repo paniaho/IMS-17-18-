@@ -13,7 +13,7 @@ distances = {
     'CEITEC': 229.36,
     'AdMaS': 607.87,
     'FacultyOfChemistry': 125.02,
-    'JIC': 600
+    'JIC': 600.0
 }
 
 personMinSpeed = 1.12 # m/s
