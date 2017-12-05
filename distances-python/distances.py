@@ -6,7 +6,10 @@ distances = {
     'E': 153.0,
     'F': 142.64,
     'G': 163.48,
-    'H': 110
+    'H': 110,
+    'CEITEC': 229.36,
+    'AdMaS': 607.87,
+    'FacultyOfChemistry': 125.02
 }
 
 personMinSpeed = 1.12 # m/s
