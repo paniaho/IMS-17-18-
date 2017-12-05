@@ -7,13 +7,13 @@ distances = {
     'F': 142.64,
     'G': 163.48,
     'H': 110,
-    'RH_Cerv': 180.0,
-    'IBM': 650.0,
+    'RH_Cerv': 78.0,
+    'IBM': 600.0,
     'TechMuseum': 37.0,
     'CEITEC': 229.36,
     'AdMaS': 607.87,
     'FacultyOfChemistry': 125.02,
-    'JIC': 600.0
+    'JIC': 500.0
 }
 
 personMinSpeed = 1.12 # m/s
