@@ -9,7 +9,7 @@ distances = {
     'H': 110,
     'RH_Cerv': 180.0,
     'IBM': 650.0,
-    'TechMuseum': 400.0,
+    'TechMuseum': 37.0,
     'CEITEC': 229.36,
     'AdMaS': 607.87,
     'FacultyOfChemistry': 125.02,
